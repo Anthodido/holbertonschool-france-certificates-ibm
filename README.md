@@ -7,4 +7,4 @@ OSS - https://www.credly.com/badges/060cc052-f66f-4897-9103-9425a4ddb77b/public_
 
 project-management : https://skills.yourlearning.ibm.com/certificate/share/9dafdf48abewogICJvYmplY3RUeXBlIiA6ICJBQ1RJVklUWSIsCiAgIm9iamVjdElkIiA6ICJQTEFOLUIyREU1QzkyN0VFQyIsCiAgImxlYXJuZXJDTlVNIiA6ICI2NjA2NjczUkVHIgp933865abe14-10
 
-SQL - 
+SQL - https://skills.yourlearning.ibm.com/certificate/share/942ab0d56dewogICJvYmplY3RJZCIgOiAiVVJMLTk2Q0QzRkZGQThFNSIsCiAgIm9iamVjdFR5cGUiIDogIkFDVElWSVRZIiwKICAibGVhcm5lckNOVU0iIDogIjg0MTA5OTBSRUciCn0b2050ff1b5-10
